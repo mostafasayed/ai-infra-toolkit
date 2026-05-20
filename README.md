@@ -1,2 +1,2 @@
 # ai-infra-toolkit
-Open-source toolkit for production AI applications, including retry handling, token budgeting, request logging, cost tracking, prompt tracing, fallback models, and evaluation hooks.
+Infrastructure utilities for building more reliable, observable, and cost-aware AI/LLM applications.
